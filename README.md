@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Wan-Lin
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently getting a degree in Computer Engineering
+- 👀 This is my Github page where I keep track of all projects and learning materials :)
+- 🌱 I’m currently getting a degree in Computer Engineering @ NUS
 - 📫 You can email me at tanwanlin.c2021@gmail.com
 
 <!---
